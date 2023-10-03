@@ -1,5 +1,5 @@
 {
-	"name": "xterm-for-react",
+	"name": "xterm-for-react-v2",
 	"version": "2.0.0",
 	"description": "A React wrapper made for XTerm.js",
 	"main": "dist/src/index.js",
